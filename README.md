@@ -45,6 +45,3 @@ You can then type your questions in the terminal. To quit, enter `q`.
 
 - `main.py`: Loads the LLM and handles user interaction
 - `vector.py`: Loads review data and sets up vector retrieval
-```
-
-Let me know if you’d like a section for Docker, Gradio UI, or deployment options.
